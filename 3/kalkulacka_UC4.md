@@ -13,7 +13,7 @@ Tento UC zvaliduje vstupy od uživatele a vykoná výpočet
 - uživatel
 - systém
 
-**Poidmínky**
+**Podmínky**
 
 1. Obě zadané hodnoty musí být ve tvaru čísla
 2. Druhé číslo při dělení nesmí být nula
@@ -32,3 +32,7 @@ Tento UC zvaliduje vstupy od uživatele a vykoná výpočet
 **Alternativní tok 2**
 
     3.1 pokud dělitel bude 0, systém uživatel upozortní že dělit nulou leze a vytve jej, aby zadal jiné číslo
+
+## Use case diagram:
+
+![kalkulacka.drawio](../1-2/kalkulačka.png)
